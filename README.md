@@ -60,11 +60,11 @@ I help organizations and individuals with **data-driven insights**, **economic m
 - **Stata**, **R**, **Python**, **MATLAB**, **GAUSS**, **RATS**, **SAS**, **EViews**, **Dynare**, **Julia**, **GAMS**, **Octave**, **Maple**, **Mathematica/Wolfram Language**
 
 ### **Scientific Writing & Documentation**
-- **LaTeX**, **Scientific Word**, **Sphinx**
+- **LaTeX**, **Scientific Word**
 
 ### **General Computing & Productivity**
 - **Microsoft Office** (Word, Excel, Access, PowerPoint)  
-- **Microsoft Project**, **GIMP**, **Dia**, **StatTransfer**
+- **Microsoft Project**, **GIMP**, **Dia**, **StatTransfer**, **Sphinx**
 
 ---
 
