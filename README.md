@@ -60,7 +60,7 @@ I help organizations and individuals with **data-driven insights**, **economic m
 - **Stata**, **R**, **Python**, **MATLAB**, **GAUSS**, **RATS**, **SAS**, **EViews**, **Dynare**, **Julia**, **GAMS**, **Octave**, **Maple**, **Mathematica/Wolfram Language**, **C/C++**, **Visual Basic for Applications (VBA)**
 
 ### **Scientific Writing & Documentation**
-- **LaTeX**, **Scientific Word**
+- **LaTeX**, **Scientific Word**, **Markdown**
 
 ### **General Computing & Productivity**
 - **Microsoft Office** (Word, Excel, Access, PowerPoint)  
