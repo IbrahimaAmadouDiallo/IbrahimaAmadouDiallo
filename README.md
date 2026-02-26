@@ -64,7 +64,7 @@ I help organizations and individuals with **data-driven insights**, **economic m
 
 ### **General Computing & Productivity**
 - **Microsoft Office** (Word, Excel, Access, PowerPoint)  
-- **Microsoft Project**, **GIMP**, **Dia**, **StatTransfer**, **Sphinx**
+- **Microsoft Project**, **GIMP**, **Dia**, **StatTransfer**, **Sphinx**, **MathType**
 
 ---
 
