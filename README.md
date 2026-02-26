@@ -88,7 +88,7 @@ I offer consulting services in:
 - Forecasting  
 - Software implementation  
 
-Feel free to reach out if you need support on a specific project.
+Please, feel free to reach out if you need support on a specific project.
 
 ---
 
@@ -103,4 +103,4 @@ I am known for:
 ---
 
 ## 📫 Contact
-If you would like to collaborate, need research assistance, or want to use my consulting services, feel free to contact me.
+If you would like to collaborate, need research assistance, or want to use my consulting services, please feel free to contact me.
