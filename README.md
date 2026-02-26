@@ -57,7 +57,7 @@ I help organizations and individuals with **data-driven insights**, **economic m
 ## 🛠️ Technical Skills
 
 ### **Econometrics, Statistics & Programming**
-- **Stata**, **R**, **Python**, **MATLAB**, **GAUSS**, **RATS**, **SAS**, **EViews**, **Dynare**, **Julia**, **GAMS**, **Octave**, **Maple**, **Mathematica/Wolfram Language**
+- **Stata**, **R**, **Python**, **MATLAB**, **GAUSS**, **RATS**, **SAS**, **EViews**, **Dynare**, **Julia**, **GAMS**, **Octave**, **Maple**, **Mathematica/Wolfram Language**, **C/C++**, **Visual Basic for Applications (VBA)**
 
 ### **Scientific Writing & Documentation**
 - **LaTeX**, **Scientific Word**
